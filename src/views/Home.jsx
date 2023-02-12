@@ -42,10 +42,10 @@ const Home = () => {
           <Button variant={'contained'} sx={{
             borderRadius: 10,
             background: '#E23744',
-            fontSize: { xs: 10, md: 13 },
+            fontSize: { xs: 10, md: 15 },
             fontWeight: '600',
-            px: 3,
-            py: 1.5
+            px: 4,
+            py: 2,
           }}>Explore Now!</Button>
         </Box>
       </Box>
