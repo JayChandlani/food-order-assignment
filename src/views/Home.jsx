@@ -1,8 +1,8 @@
 import { Box, Button, Typography } from '@mui/material'
 import React from 'react'
-import logo from './assets/logo.png'
-import pizza from './assets/pizza.jpg'
-import vector from './assets/vector1.svg'
+import logo from '../assets/logo.png'
+import pizza from '../assets/pizza.jpg'
+import vector from '../assets/vector1.svg'
 const Home = () => {
   return (
     <Box

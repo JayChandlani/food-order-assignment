@@ -1,5 +1,5 @@
 import { Typography, Box, Button } from '@mui/material'
-import about from './assets/about.png'
+import about from '../assets/about.png'
 
 const About = () => {
     return (

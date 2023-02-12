@@ -1,10 +1,10 @@
 import { CssBaseline, ThemeProvider } from '@mui/material'
-import Home from './Home'
+import Home from './views/Home'
 import { themeSettings } from './theme'
 import { createTheme } from "@mui/material/styles";
-import About from './About';
-import Articles from './Articles';
-import Footer from './Footer';
+import About from './views/About';
+import Articles from './views/Articles';
+import Footer from './views/Footer';
 const App = () => {
   const theme = createTheme(themeSettings())
   return (

@@ -1,8 +1,8 @@
 import { ChevronLeftOutlined, ChevronRightOutlined } from '@mui/icons-material'
 import { Box, Grid, IconButton, Typography } from '@mui/material'
 import React, { useEffect, useState } from 'react'
-import Cards from './components/Cards'
-import data from './constants/data'
+import Cards from '../components/Cards'
+import data from '../constants/data'
 // import tomato from './assets/articles/tomato.png'
 const Articles = () => {
     const [articleData, setArticleData] = useState([]);

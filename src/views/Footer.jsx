@@ -1,7 +1,7 @@
 import { Facebook, Instagram, Twitter } from '@mui/icons-material'
 import { Box, Typography } from '@mui/material'
 import { styled } from '@mui/system'
-import logo from './assets/logo.png'
+import logo from '../assets/logo.png'
 
 
 const ListItems = styled(Typography)({
